@@ -69,4 +69,8 @@ for (s in 1:nS) {
   }
 }
 
+<<<<<<< HEAD
 write.table(td, "tidyData2.txt")
+=======
+write.table(td, "tidyData2.txt")
+>>>>>>> origin/master
